@@ -1,7 +1,7 @@
 {
-	    "BOT": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n(https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nНапечатайте категорию %[Электроника] %[Food](postback:learn_about_esther) %[Книги](postback:random_fact) %[Дети](postback:random_fact) %[Дом](postback:random_fact) %[Товар дня](postback:random_fact)",
+	    "BOT": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n(https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nНапечатайте категорию %[Электроника](postback:Электроника? Уже ищу..) %[Food](postback:learn_about_esther) %[Книги](postback:random_fact) %[Дети](postback:random_fact) %[Дом](postback:random_fact) %[Товар дня](postback:random_fact)",
 	    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-	    "ТОВАР ДНЯ": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://www.xiaomi.kz/xiaomi-mi5-64gb-white)",
+	    "ТОВАР ДНЯ": "Давайте приоткроем завесу тайны: %[Интрига :-)](http://www.xiaomi.kz/xiaomi-mi5-64gb-white)",
 	    "I LOVE YOU": "Awh, shucks! I love you too!",
 	    "CONNECT ME": "",
 	    "DISCONNECT": "Roger that, EstherBot is back."
