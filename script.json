@@ -1,5 +1,5 @@
 {
-	    "ГОУ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n %[Это я](postback:https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
+	    "ГОУ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n %[Это я](https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
 	    "ПРИВЕТ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n(https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
 	    "ЭЛЕКТРОНИКА": "Гаджетмэн? Ок! Начинаю искать… 5 минут и я вернусь…",
 	    "FOOD": "Покушать? Ок! Начинаю искать… 5 минут и я вернусь…",
