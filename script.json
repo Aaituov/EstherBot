@@ -1,5 +1,5 @@
 {
-	    "ГОУ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n![tandabot](https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
+	    "ГОУ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n![tandabot](https://yadi.sk/i/5pjOZ1vZuMFSy)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
 	    "ПРИВЕТ": "Доброго здоровья!\nНапиши или отправь фотографию что купить. Я найду и отправлю ссылку на корзину интернет магазина\n![tandabot](https://github.com/Aaituov/EstherBot/blob/master/img/pokemon1.jpg?raw=true)\nВыбери категорию %[Электроника](postback:ЭЛЕКТРОНИКА) %[Food](postback:FOOD) %[Книги](postback:Книги) %[Дети](postback:Дети) %[Дом](postback:Дом) %[Товар дня](postback:random_fact)",
 	    "ЭЛЕКТРОНИКА": "Гаджетмэн? Ок! Отправь название либо фото и я начинаю искать… 5 минут и я вернусь…",
 	    "FOOD": "Покушать? Ок! Отправь название либо фото и я начинаю искать… 5 минут и я вернусь…",
